@@ -42,11 +42,6 @@ export default function SocialAndStats() {
                 <Counter key={stat.label} value={stat.value} label={stat.label} />
               ))}
             </div>
-            <p className="mt-10 text-xs leading-relaxed text-faint">
-              Figures shown are placeholders pending verified Instagram
-              insights — replace them in{' '}
-              <code className="rounded bg-elevated px-1.5 py-0.5">src/data/site.js</code>.
-            </p>
           </div>
         </div>
       </div>
