@@ -87,10 +87,10 @@ export const contactChannels = [
 ]
 
 export const budgetRanges = [
-  'Under $500',
-  '$500 – $1,500',
-  '$1,500 – $5,000',
-  '$5,000+',
+  'Under 500',
+  '500 – 1,500',
+  '1,500 – 5,000',
+  '5,000+',
   "Let's discuss",
 ]
 
