@@ -12,7 +12,7 @@ export const site = {
 
   // Shown in the business contact section and used to build the
   // mailto: link on the contact form. Replace with your real address.
-  businessEmail: 'barcalyadh2006@email.com',
+  businessEmail: 'barcaxfootball@email.com',
 
   description:
     'BARCA_LYADH is a football media brand bringing Barça passion, football culture, news, opinions and visual storytelling to a growing digital audience.',
